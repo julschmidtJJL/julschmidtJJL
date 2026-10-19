@@ -2,7 +2,7 @@
 
 AI engineer with a founder's background. I build LLM and data systems that run reliably and stay traceable. Six years as co-founder of JJLab UG taught me what a system has to earn inside a company. B.Sc. Business Informatics, Leuphana University Lüneburg.
 
-Hamburg, Germany | Open to: AI Engineer | ML Engineer | AI Product Manager | Founding Team Member
+Hamburg, Germany | Open to: AI Engineer | ML Engineer | AI Product Manager
 
 ### Work
 
