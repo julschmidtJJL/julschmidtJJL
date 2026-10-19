@@ -9,6 +9,9 @@ Hamburg, Germany | Open to: AI Engineer | ML Engineer | AI Product Manager | Fou
 **[vertigo-brief](https://github.com/julschmidtJJL/vertigo-brief)**\
 An AI system that runs without me. Every morning it checks my investments against the reasons I wrote down for holding them, and it marks every line as either calculated from data or written by a language model. Numbers are never generated. This repo is the brief automation only, with an invented example portfolio.
 
+**[job-triage](https://github.com/julschmidtJJL/job-triage)**\
+A daily pipeline that reads job boards for me, scores every posting against a written profile with Claude, and puts the few worth a look on a Notion board. My verdicts teach the next run: a stop-list runs in shadow mode before it acts, and a scoreboard measures which searches earn their place. It never applies anywhere.
+
 **[lnn-vs-classical-forecasting](https://github.com/julschmidtJJL/lnn-vs-classical-forecasting)**\
 Bachelor thesis. Benchmarked 11 liquid-neural-network variants against 8 established baselines on ten years of daily AAPL, JPM and SPY returns, with 120 comparisons corrected for multiple testing. Result: no significant advantage in any of them. Graded 1.0.
 
